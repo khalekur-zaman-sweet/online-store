@@ -1,0 +1,123 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.portfolio P{
+    margin-left: 50px;
+    font-size: 35px;
+    font-family: 'Akaya Telivigala', cursive
+    
+}
+
+.head{
+    margin-left: 30vh;
+}
+.head li{
+    margin-left: 40px;
+    color: black;
+}
+.first{
+   background-image: url("assets/bg1.jpg");
+  height: auto;
+   width: 100%;
+   background-size: cover; 
+   margin-top: -5px;
+  background-position: center;
+}
+ h1{
+     margin-top: 3%;
+     margin-bottom: 4%;
+ }
+ .text-1{
+     margin-top: 15%;
+     margin-bottom: 10%;
+ }
+ .text-1 h1{
+     font-size: 50px;
+     letter-spacing: 5px;
+ }
+ .btn:hover{
+     background: #ff7315;
+     border-radius: 25px;
+ 
+ }
+ .text-2{
+     margin-top: 25%;
+ }
+ .img-2{
+     margin-top: 15%;
+     margin-bottom: 10%;
+ }
+ .gird-2{
+    background: #f1eeee;
+     
+ }
+ h3:hover{
+     color: #ff7315;
+     margin-top: 20px;
+
+ }
+ .img-3{
+     margin-top: 10%;
+     margin-bottom: 20%;
+ }
+ .text-3{
+     margin-top: 15%;
+     margin-bottom: 5%;
+ }
+ .gird-3{
+     margin-top: 5%;
+     margin-bottom: 5%;
+ }
+ i{
+     font-size: 50px;
+     margin-top: 10%;
+     color: #f36e16;
+
+ }
+ i:hover{
+     color: #fff;
+ }
+ .card{
+     border: none;
+    background: #f1eeee;
+    transition: 1s linear 1s;
+
+ }
+ .card:hover{
+     background: #a84c0e;
+    
+     
+ }
+ .footer{
+    margin-top: 5%;
+}
+.col ul li{
+    display: flex;
+    margin-left: 40px;
+}
+
+.col ul li a i{
+    font-size: 30px;
+    color: #fff;
+   
+   
+}
+.use{
+    color: #fff;
+    text-decoration: none;
+    
+}
+.facebook{
+    background: gray;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 50%;
+    transition: all 0.5s linear 0.5s;
+}
+.facebook:hover{
+    background: #ff7315;
+
+}

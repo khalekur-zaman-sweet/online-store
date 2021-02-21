@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.portfolio P{
+    margin-left: 50px;
+    font-size: 38px;
+    font-family: 'Akaya Telivigala', cursive
+    
+}
+
+.head{
+    margin-left: 40vh;
+}
+.head li{
+    margin-left: 40px;
+    color: black;
+}
+
+.slider-1{
+    background: url(assets/banner1.jpg);
+    height: 600px;
+    
+    width: 100%;
+    background-size: cover;
+}
+.slider-2{
+    background: url(assets/banner2.jpg);
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    opacity: 1;
+}
+.slider-3{
+    background: url(assets/banner4.jpg);
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    opacity: 1;   
+}
+.sweet{
+    margin-top: 2%;
+    margin-left: 3%;
+}
+.text{
+    margin-left: 15%;
+    margin-top: 15%;
+    
+}
+.text h1{
+    font-size: 60px;
+}
+
+.text-1{
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+.suit{
+    background: #f4f4f4;
+    margin-top: 7%;
+    
+    
+}
+.text-2{
+    margin-top: 30%;
+    font-weight: 700;
+    
+}
+.text-2 p{
+    color: gray;
+}
+.col img{
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+.contant{
+    width: 80%;
+}
+.text-4 p{
+    margin-top: -15%;
+}
+.contant-1{
+    background: url(assets/bg3.jpg);
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    margin-top: 10%;
+    background-position: center;
+}
+.text-5{
+    margin-top: 10%;
+    margin-bottom: 15%;
+}
+.email{
+    background: grey;
+    
+}
+.text-6{
+    margin-top: 60%;
+}
+.text-6 input{
+    background: #f1eeee;
+    outline: none;
+    width: 60%;
+    font-size: 16px;
+    padding: 0px 15px;
+    color: #232020;
+    height: 53px;
+    text-align: left;
+    border-radius: 25px 0 0 25px ;
+    border: none;
+}
+.text-6 .button {
+    text-decoration: none;
+    height: 53px;
+    width: 100px;
+    margin-left: -6px;
+    margin-top: -5px;
+    border-radius: 0 25px 25px 0;
+    padding: 10px 15px;
+    background: #ff7315;
+}
+
+
+.btn:hover{
+    background: #ff7315;
+    border-radius: 25px;
+
+}
+.button:hover{
+    border-radius: 0 25px 25px 0;
+    background: black;
+    color: #fff;
+}
+.col ul li{
+    display: flex;
+    margin-left: 30px;
+}
+
+.col ul li a i{
+    font-size: 30px;
+    color: #fff;
+   
+   
+}
+.use{
+    color: #fff;
+    text-decoration: none;
+    
+}
+.facebook{
+    background: gray;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 50%;
+}
+.facebook:hover{
+    background: #ff7315;
+
+}
