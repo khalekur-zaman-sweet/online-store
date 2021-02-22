@@ -42,6 +42,10 @@ h1{
     background: #ff7315;
     border-radius: 25px;
 
+
+}
+img{
+    border-radius: 20px;
 }
 .footer{
     margin-top: 5%;
